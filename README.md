@@ -1,5 +1,5 @@
 # enem-data-analysis-brazil
-ENEM Analysis by State with a Focus on Sociodemographic Inequalities Using Power BI
+ENEM Analysis by State with a Focus on Sociodemographic Inequalities Using Power BI [https://drive.google.com/file/d/1dXl1Ylq7ZZicfGdEhw5LGGCoap8e_e4r/view?usp=drive_link]
 
 This project presents a detailed state-by-state study of the ENEM (National High School Exam) 2023 scores in Brazil. The analysis explores the relationship between performance in Mathematics, Language and Codes, Writing, Humanities, and Natural Sciences with key sociodemographic variables such as gender, race/color, age group, school type, and monthly household income. The goal is to understand how these factors influence student performance in each state, providing an in-depth view of educational inequalities across the country.
 
@@ -42,7 +42,7 @@ By selecting these filters, the charts and indicators on the right side will aut
 ## 💡 Notes
 
 - The `.pbix` file size is approximately 87 MB.  
-- It is recommended to have Power BI Desktop installed to view and interact with the report.
+- It is recommended to have Power BI Desktop installed to view and interact with the report. [https://drive.google.com/file/d/1dXl1Ylq7ZZicfGdEhw5LGGCoap8e_e4r/view?usp=drive_link]
 
 ---
 
