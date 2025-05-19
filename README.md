@@ -37,6 +37,15 @@ By selecting these filters, the charts and indicators on the right side will aut
 ![Filter "Very Low Income" - Low Household Income Range](https://github.com/user-attachments/assets/c5a4f3ba-9d0a-45b5-8901-18879b654422)  
 ![Filter "High Income" - Highest Income Bracket in Brazil](https://github.com/user-attachments/assets/267965ec-ae79-4571-9087-2af47f889229)
 
+## 🔍 Insights
+
+- Monthly household income is one of the most important factors directly impacting students' performance in the ENEM.  
+- Students from public schools perform worse compared to those from private schools, especially in subjects like Mathematics and Natural Sciences.  
+- The South and Southeast regions present the highest average scores, while the North region had the lowest overall performance.  
+- Educational inequalities vary significantly between states, indicating different regional challenges.  
+- Performance is also influenced by sociodemographic factors such as gender and race/color, reflecting historical inequalities.  
+- The main challenge is to understand how these inequalities can be reduced and transformed. Future studies and deeper analyses may help find ways to promote educational equity in Brazil.
+
 ---
 
 ## 💡 Notes
