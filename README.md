@@ -53,7 +53,7 @@ By selecting these filters, the charts and indicators on the right side will aut
 ## 💡 Notes
 
 - The `.pbix` file size is approximately 87 MB.  
-- It is recommended to have Power BI Desktop installed to view and interact with the report. [https://drive.google.com/file/d/1dXl1Ylq7ZZicfGdEhw5LGGCoap8e_e4r/view?usp=drive_link]
+- It is recommended to have Power BI Desktop installed to view and interact with the report. 
 
 ---
 
